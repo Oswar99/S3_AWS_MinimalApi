@@ -1,0 +1,6 @@
+@MinimalApi_and_S3_AWS_HostAddress = http://localhost:5290
+
+GET {{MinimalApi_and_S3_AWS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
